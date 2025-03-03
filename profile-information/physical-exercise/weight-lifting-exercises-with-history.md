@@ -131,7 +131,7 @@ I have done weight-lifting exercises off and on, but mostly off, till about
 2021. In November 2021, I started doing weight-lifting exercises regularly
 in November 2021 and have ramped them up slowly since then.
 
-## 2021-11-02: starting my steady weight-lifting exercise journey
+### 2021-11-02: starting my steady weight-lifting exercise journey
 
 On Tuesday, November 2, 2021, I received my order of weights. The
 previous day I had received my exercise mat order.

@@ -45,10 +45,11 @@ improvement).
 
 However, as of 2024-11-30, I am pausing efforts to aggressively build
 toward the target threshold, by reducing my exercise frequency to
-every 4 days. This is a trade-off for time (and keeping in mind that
+every 4 days (further reduced to once every 6 days on
+2024-12-06). This is a trade-off for time (and keeping in mind that
 winter tends to have a higher load of work related to cooking, food
-purchases, eating, and cleaning, so I am more pressed for time). I
-may return to a more aggressive build mode in the future.
+purchases, eating, and cleaning, so I am more pressed for time). I may
+return to a more aggressive build mode in the future.
 
 ## Current protocol and status as of 2025-02-09
 

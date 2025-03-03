@@ -124,8 +124,9 @@ multiple open/closes outside of my daily routine.
   position.
 
 * Right hand on 100 lb with specific fingers excluded: The goal is to
-  increase the strength in specific fingers while still using a load
-  that is not too much for me wrist as a whole.
+  increase the strength in specific fingers while still using a total
+  load that is not too much for my wrist, arm and shoulder, and neck
+  muscles.
 
   * Excluding the little finger (if I do this first): I close and keep
     closed for 8 to 19 seconds. I should be able to do it, but it's
@@ -140,8 +141,9 @@ multiple open/closes outside of my daily routine.
   than the expected duration for the little finger.
 
 * Left hand on 100 lb with specific fingers excluded: The goal is to
-  increase the strength in specific fingers while still using a load
-  that is not too much for me wrist as a whole.
+  increase the strength in specific fingers while still using a total
+  load that is not too much for my wrist, arm and shoulder, and neck
+  muscles.
 
   * Excluding the little finger: I should be able to close and hold
     for 1 to 2 seconds except in case of cold hands, but it's much
